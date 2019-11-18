@@ -1,5 +1,5 @@
 def addition(5, 4)
-  puts (4 + 5)
+  return (4 + 5)
 
 end
 
