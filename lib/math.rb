@@ -1,4 +1,5 @@
 def addition(num1, num2)
+  puts (num2.to_s + num1.to_s)
 
 end
 
