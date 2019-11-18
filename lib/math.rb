@@ -1,5 +1,5 @@
 def addition(5, 4)
-  puts (4.to_s + 5.to_s)
+  puts (4 + 5)
 
 end
 
