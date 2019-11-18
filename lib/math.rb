@@ -29,8 +29,8 @@ end
 
 def modulo(num1, num2)
   num1 = 34 
-  num2 = 4 
-  return (34 / 4)
+  num2 = 5 
+  return (34 / 5)
 
 end
 
